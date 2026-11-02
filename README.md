@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Art</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<img align="center" src="koi/koi.gif" width="256" alt="My koi" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
 <h3 align="left">About Me</h3>
 <p align="left">"Full-stack" gets read as half front-end, half back-end. For me it just means I can never sit still on one layer. I want to build something from scratch and watch it go from a blank screen to something that actually runs, database, API, UI, and deployment included. Preferably with a different stack every time, because apparently I can't use the same tools twice without getting bored.</p>
